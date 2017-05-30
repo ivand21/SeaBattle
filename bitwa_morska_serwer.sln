@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitwa_morska", "bitwa_morska\bitwa_morska\bitwa_morska.csproj", "{A6EDA0CA-B3B6-415A-8B8E-FC09099591A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitwa_morska_serwer", "bitwa_morska_serwer\bitwa_morska_serwer.csproj", "{DCA17F0F-9554-4613-95AB-C5A3DBB8602E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwaMorskaDataPacket", "BitwaMorskaDataPacket\BitwaMorskaDataPacket\BitwaMorskaDataPacket.csproj", "{68EAE065-4BA7-4A94-B902-5C2C326D557E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6EDA0CA-B3B6-415A-8B8E-FC09099591A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EDA0CA-B3B6-415A-8B8E-FC09099591A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EDA0CA-B3B6-415A-8B8E-FC09099591A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EDA0CA-B3B6-415A-8B8E-FC09099591A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA17F0F-9554-4613-95AB-C5A3DBB8602E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA17F0F-9554-4613-95AB-C5A3DBB8602E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA17F0F-9554-4613-95AB-C5A3DBB8602E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA17F0F-9554-4613-95AB-C5A3DBB8602E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68EAE065-4BA7-4A94-B902-5C2C326D557E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EAE065-4BA7-4A94-B902-5C2C326D557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EAE065-4BA7-4A94-B902-5C2C326D557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EAE065-4BA7-4A94-B902-5C2C326D557E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
